@@ -617,13 +617,13 @@
                         拥有工科背景的文科生，热爱设计与创作，追求全面发展
                     </p>
                     <div class="flex space-x-4">
-                        <a href="https://instagram.com" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="Instagram">
+                        <a href="https://www.instagram.com/iwater.meloni/?next=%2F" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="Instagram">
                             <i class="fa fa-instagram"></i>
                         </a>
-                        <a href="https://bilibili.com" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="Bilibili">
+                        <a href="https://space.bilibili.com/177778970?spm_id_from=333.1007.0.0" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="Bilibili">
                             <i class="fa fa-play-circle"></i>
                         </a>
-                        <a href="https://linkedin.com" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="LinkedIn">
+                        <a href="https://www.linkedin.com/in/chengzhuo-jiang-9b9807325/" target="_blank" class="text-gray-400 hover:text-white transition-custom" title="LinkedIn">
                             <i class="fa fa-linkedin"></i>
                         </a>
                         <a href="#" class="text-gray-400 hover:text-white transition-custom" title="微信">
